@@ -1,0 +1,8 @@
+# Copy this file to terraform.tfvars and fill in your actual values.
+# terraform.tfvars is gitignored — never commit real account IDs.
+
+aws_account_id = "123456789012"
+
+# Optional overrides (defaults defined in variables.tf):
+# project_name = "sample-dwh"
+# region       = "ap-northeast-1"
